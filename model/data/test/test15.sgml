@@ -1,0 +1,6875 @@
+<SENTENCE>
+  <TEXT>
+    下个星期，我跟我朋唷打算去法国玩儿。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>唷</WRONG>
+    <CORRECTION>友</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    对不气，最近我很忙，所以我不会去妳的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>气</WRONG>
+    <CORRECTION>起</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    真麻烦你了。希望你们好好的跳无。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>无</WRONG>
+    <CORRECTION>舞</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    吃了早菜以后他去上课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>菜</WRONG>
+    <CORRECTION>餐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    坐路差不多十分钟，我们到了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>坐</WRONG>
+    <CORRECTION>走</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们看了一个很可爱的电影，一个小机一个人去火星。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>机</WRONG>
+    <CORRECTION>鸡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    应为他学得很好，所以同班同学都喜欢问他问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>应</WRONG>
+    <CORRECTION>因</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    美美说应为学校没有冷气，所以今天教室裡面热得不得了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>应</WRONG>
+    <CORRECTION>因</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    张爱文很聪明，老师教他英文、地理什麽得，他很快明白了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    今天下了课，我打算跟我的奴朋友去看电影，所以我有一点儿领张，六点半我就起床了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>奴</WRONG>
+    <CORRECTION>女</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>领</WRONG>
+    <CORRECTION>紧</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在公车上有很多人，所以我们没有位子可以座。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>座</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得「站在公车上有一点麻烦没关係，有我的奴朋友就好了」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>奴</WRONG>
+    <CORRECTION>女</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    看电影时候，我都觉得这个电影很有意思，可是现在我把什麽事都不济的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>济</WRONG>
+    <CORRECTION>记</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    身体建錓。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>建</WRONG>
+    <CORRECTION>健</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>錓</WRONG>
+    <CORRECTION>康</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我真的不好意可是今天不能参加，因为我要去台南接我的奶奶。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>接</WRONG>
+    <CORRECTION>见</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我听说这个礼拜六你要开一个误会。可是那天我会很忙，因为我男朋友要回国来看我。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>误</WRONG>
+    <CORRECTION>舞</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我以前想要高诉你，可是我忘了。我真户秃。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>高</WRONG>
+    <CORRECTION>告</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>户</WRONG>
+    <CORRECTION>煳</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>秃</WRONG>
+    <CORRECTION>涂</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不好意思，可是我觉得我那时间不能参加，因为我已经跟我的弟弟打算去台玩。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>34</LOCATION>
+    <WRONG>玩</WRONG>
+    <CORRECTION>湾</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我不能参加你的舞会，因为我有一点生病了，我真的愿意参加可惜我身体不建康。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>34</LOCATION>
+    <WRONG>建</WRONG>
+    <CORRECTION>健</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得你们会好好的完。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>完</WRONG>
+    <CORRECTION>玩</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我真的喜欢去你的会，可是那的时候我有一个重要的考试。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>个</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    吃了碗饭以后，我们两个人马上去看电影。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>碗</WRONG>
+    <CORRECTION>晚</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我门看美国电影，我觉得很有意事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>事</WRONG>
+    <CORRECTION>思</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我每天六天半起床。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>天</WRONG>
+    <CORRECTION>点</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    陈先生会说三个语言，西班牙语、华语根日文。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>根</WRONG>
+    <CORRECTION>跟</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们等着，说话二十分以后公车来了，他们走上，可是公车没有座位所以他们站着说话。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>走</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    到电影院前面，他们一定先要买票在可以进去。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>在</WRONG>
+    <CORRECTION>才</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    小祥有女朋友。他的女朋友是同班同学，而且他们两个是邻住。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>27</LOCATION>
+    <WRONG>住</WRONG>
+    <CORRECTION>居</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为上个裡拜是我的生日，我想明天跟你一起庆祝，不知道你要不要去吃饭？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>裡</WRONG>
+    <CORRECTION>礼</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我要跟我的朋友一起去市大夜市吃晚饭。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>市</WRONG>
+    <CORRECTION>师</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我要请他吃牛肉麵，我觉得在市大有一个牛肉麵很好吃。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>市</WRONG>
+    <CORRECTION>师</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以我在＂义大利麵方子＂已经定位了
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>定</WRONG>
+    <CORRECTION>订</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    去年四月王大明决定学中文，可是在他的国家学中文不妨便，想来想去他决定来台湾念一年的中文。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>妨</WRONG>
+    <CORRECTION>方</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    幸亏一个小姐会说德问，他说话说得很好，所以他告诉我学校地址。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>问</WRONG>
+    <CORRECTION>文</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    今天老师教我们，教淂很多，你好、再见、谢谢什麽的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>淂</WRONG>
+    <CORRECTION>导</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他第一次找学校的时候在街上的一个小姐问师大在那儿，他说这个路走右转走一走就到拉。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>39</LOCATION>
+    <WRONG>拉</WRONG>
+    <CORRECTION>啦</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他正要喝点水，老师就进教师来来了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>师</WRONG>
+    <CORRECTION>室</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我听说你要回法国去一个星期，我不知道你可不可以帮我拿回来一平红酒？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>30</LOCATION>
+    <WRONG>平</WRONG>
+    <CORRECTION>瓶</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他是吃素的人所以我介绍他台湾的亲菜。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>亲</WRONG>
+    <CORRECTION>青</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我要你去到遭级市场买一本中文（它介绍德国文化），第二个东司是一个电视。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>遭</WRONG>
+    <CORRECTION>超</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>司</WRONG>
+    <CORRECTION>西</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    今天我写这张信球球妳帮我买一间房子。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>球</WRONG>
+    <CORRECTION>求</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>球</WRONG>
+    <CORRECTION>求</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可是你现在不在宿舍，所以我留了一枝条。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>枝</WRONG>
+    <CORRECTION>纸</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我今天二十三个小时的考试，热后我应该回家到下个星期，所以我觉得我们没有办法见面了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>热</WRONG>
+    <CORRECTION>然</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们见面的时候，台生很高兴，应为外面真麽那麽热。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>应</WRONG>
+    <CORRECTION>因</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>真</WRONG>
+    <CORRECTION>怎</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    上个周末以前我打算去城市完，可是周末到了因为天气很好我觉得去乡下比较好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>完</WRONG>
+    <CORRECTION>玩</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我起床很早，吃早餐以后坐公车到乡虾去了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>虾</WRONG>
+    <CORRECTION>下</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他带他的黑色的包，也他的照像机。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>像</WRONG>
+    <CORRECTION>相</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不好意思，我咪路，可不可以帮我？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>咪</WRONG>
+    <CORRECTION>迷</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    上年春天我到台湾东部到台东去看到我的好朋友，因为我们面件很久。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>件</WRONG>
+    <CORRECTION>见</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    然后我非常累，走路真的麻坊，我也没有喝的东西，在家汪了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>坊</WRONG>
+    <CORRECTION>烦</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>汪</WRONG>
+    <CORRECTION>忘</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    它是真的一个很好的人。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>它</WRONG>
+    <CORRECTION>他</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他决定去的地放的风景漂亮的不得了，可是因为天气太热所以他走着走着，就非常累。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>放</WRONG>
+    <CORRECTION>方</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他跟开车的人说就是因为他很喜欢教区的地放。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>教</WRONG>
+    <CORRECTION>郊</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>放</WRONG>
+    <CORRECTION>方</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他看得出来明德真的很累，所以他情明德进车去要把明德送到火车站。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>请</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他收到山上的时候，非常高兴。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>收</WRONG>
+    <CORRECTION>走</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他在家给弟弟的朋友一个生日会，他开车到家畜。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>畜</WRONG>
+    <CORRECTION>去</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你们也可以走路也可以做公共汽车。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>做</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得我们湾很好，我们会唱歌，我们也做饭。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>湾</WRONG>
+    <CORRECTION>玩</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    下星期是我的第第生日，他和我的父母想请他的两个朋友来。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>第</WRONG>
+    <CORRECTION>弟</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>第</WRONG>
+    <CORRECTION>弟</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    小毛想下个週末跟你们以起玩儿，因为他这个礼拜五有生日。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>以</WRONG>
+    <CORRECTION>一</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    从学校往左边一直走到了第二个路口，有转往前面走一会儿，我们家就在右边。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>有</WRONG>
+    <CORRECTION>右</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我去公共车从大学到图书权。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>权</WRONG>
+    <CORRECTION>馆</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得我最喜欢休天。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>休</WRONG>
+    <CORRECTION>秋</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那边又好吃的义大利麵，有很亲切的服务生，还有那个地方很热闹。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>又</WRONG>
+    <CORRECTION>有</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你可以从台北撘３点３０分的火车到宜兰去。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>撘</WRONG>
+    <CORRECTION>搭</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我现在再台湾想请你吃饭，希望你有空跟我一起吃个饭。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>再</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    天华你还记得芳芳吗？你有他的点话吗？我也想请他一起吃。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>点</WRONG>
+    <CORRECTION>电</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我很想妳拉！很久没听你的笑话。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>拉</WRONG>
+    <CORRECTION>啦</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果你答应这件事，情你告诉我。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>请</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们的吵翻很不错，再说他们做的咖哩鸡也好吃！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>吵</WRONG>
+    <CORRECTION>炒</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>翻</WRONG>
+    <CORRECTION>饭</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    请你邦我火车站在哪？你要走前面。谢谢妳了！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>邦</WRONG>
+    <CORRECTION>帮</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可是因伪这是他第一次来台湾所以什麽地方都他不知道。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>伪</WRONG>
+    <CORRECTION>为</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    王大卫总于到他的中文课了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>总</WRONG>
+    <CORRECTION>终</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    王大卫总于上他第一天的中文课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>总</WRONG>
+    <CORRECTION>终</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我看火车到的地图，可是我不董，因为我不懂中文。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>董</WRONG>
+    <CORRECTION>懂</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    她会说英文，所以他帮我取火车站。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>取</WRONG>
+    <CORRECTION>去</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他没想到地图上面的子是用中文，不是英文。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>子</WRONG>
+    <CORRECTION>字</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那位奴生会英文，所以他可以跟ＤＡＶＩＤ讲话，然后帮ＤＡＶＩＤ知道到他想去的地方怎麽走。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>奴</WRONG>
+    <CORRECTION>女</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    ＤＡＶＩＤ很感谢那位奴生。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>奴</WRONG>
+    <CORRECTION>女</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他第一天来上中文课，他很惊讶发现中文老师就是帮他找路的那位奴生。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>30</LOCATION>
+    <WRONG>奴</WRONG>
+    <CORRECTION>女</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    幸跨那位小姐会说英文所以他帮她。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>跨</WRONG>
+    <CORRECTION>亏</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我会说一点儿，不过一个汉子也看不懂，所以我迷路了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>子</WRONG>
+    <CORRECTION>字</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我吃道你。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>吃</WRONG>
+    <CORRECTION>知</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他穿塶色的衣服。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>塶</WRONG>
+    <CORRECTION>绿</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他都会购通别人了喔，而且认识了好多外国朋友了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>购</WRONG>
+    <CORRECTION>沟</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    虽然我看地读为了走路去到中文教室，可是在美术馆前面的道路我迷路。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>读</WRONG>
+    <CORRECTION>图</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我带来一个地图可是我看不动，也不知道教师在哪裡。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>动</WRONG>
+    <CORRECTION>懂</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>师</WRONG>
+    <CORRECTION>室</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    先宰我的中文真不好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>先</WRONG>
+    <CORRECTION>现</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>宰</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他很少座捷运去玩。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>座</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    有一天他想座捷运去上中文课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>座</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你要从那个捷运站去到公官站就到了！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>官</WRONG>
+    <CORRECTION>馆</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    老师开始教明星今天的第一个中国子。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>子</WRONG>
+    <CORRECTION>字</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    请你去五大唱片店帮我买，那点在中友百货附近。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>点</WRONG>
+    <CORRECTION>店</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那时后，有一个人开车过来他的地方，他马上请他帮助他。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>后</WRONG>
+    <CORRECTION>候</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你可以告诉我那家书店有中文数马？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>数</WRONG>
+    <CORRECTION>书</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>马</WRONG>
+    <CORRECTION>吗</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    情你们帮我，我弄丢了一本书。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>请</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那本书黄色，还有上面红红的漂亮化，书上有写我的名。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>化</WRONG>
+    <CORRECTION>花</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    书找到了，情给李小姐打电话。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>请</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    她回国以后，男朋友就把他拍的像片寄给她。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>像</WRONG>
+    <CORRECTION>相</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们用电脑一边看那些像片一边聊天。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>像</WRONG>
+    <CORRECTION>相</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这次署假小花去台北旅行顺便去看她的男朋友。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>署</WRONG>
+    <CORRECTION>暑</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    晚上时他跟她的男朋友用电脑聊天。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    李伟很会拍照片，所以他派了很多照片。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>派</WRONG>
+    <CORRECTION>拍</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们最喜欢的地方是高雄的柴山，那裡很漂亮友山友海。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>友</WRONG>
+    <CORRECTION>有</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>友</WRONG>
+    <CORRECTION>有</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我是你得学生。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    明天我有很重要得事，没有时间来上课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    谢谢老师，那我写到这边先好吧，在两天见面，再见。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>在</WRONG>
+    <CORRECTION>再</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我明天回家的时候要给你塔电话，告诉你我好不好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>塔</WRONG>
+    <CORRECTION>打</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我要请你来印尼，我的国家，在印尼有很多好看的地放。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>24</LOCATION>
+    <WRONG>放</WRONG>
+    <CORRECTION>方</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可是很多外国人很喜欢赛太杨在海边，在印尼有很多外国人来路性。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>赛</WRONG>
+    <CORRECTION>晒</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>杨</WRONG>
+    <CORRECTION>阳</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>路</WRONG>
+    <CORRECTION>旅</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>性</WRONG>
+    <CORRECTION>行</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在圣文森我住在ＮＯＲＴＨ　ＵＮＩＯＮ，这裡有很有明的花地方。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>明</WRONG>
+    <CORRECTION>名</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在台北我已经主了差不多两年了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>主</WRONG>
+    <CORRECTION>住</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    七个月以前我到台湾学中文因为咖拿大很多人说中文所以很有用。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>咖</WRONG>
+    <CORRECTION>加</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    现在我在台北西个半月了，周末的时候我跟同学练习中文还有一起去看电影。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>西</WRONG>
+    <CORRECTION>七</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>周</WRONG>
+    <CORRECTION>週</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我姐姐下个月要回印尼了，可是她还没决定几号要丁飞机票。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>丁</WRONG>
+    <CORRECTION>订</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    雄一，不好意思。我明天不能跟你一起丢看电影。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>丢</WRONG>
+    <CORRECTION>去</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    最近，我觉得我对台湾过明。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>明</WRONG>
+    <CORRECTION>敏</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    明天我要参架奖学金考试不能来上课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>架</WRONG>
+    <CORRECTION>加</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    明天我不能来上课，因为明天早上八点中我要去飞机场送我爸爸妈妈回国。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>中</WRONG>
+    <CORRECTION>钟</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我已经把明天的功课写完了，和放在你的卓子上。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>卓</WRONG>
+    <CORRECTION>桌</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我想明天也许我不能上课，所以请你给我请家。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>家</WRONG>
+    <CORRECTION>假</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他起来后，冲忙地赶到公车站，连衣服都没有换。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>冲</WRONG>
+    <CORRECTION>匆</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他再也不会撤扬。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>撤</WRONG>
+    <CORRECTION>这</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>扬</WRONG>
+    <CORRECTION>样</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为她可以闻李大明的衣服很香抽烟的味道，所以老师就知道李大明试试骗她！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>香</WRONG>
+    <CORRECTION>像</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他等公车，看他的手表，觉得下次他应该早一点睡。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>表</WRONG>
+    <CORRECTION>錶</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他很赤道，所以不换衣服，也不吃早饭，他起床很快。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>赤</WRONG>
+    <CORRECTION>迟</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>道</WRONG>
+    <CORRECTION>到</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    今天不是他第一次赤道，李大明常常赤道中文课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>赤</WRONG>
+    <CORRECTION>迟</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>道</WRONG>
+    <CORRECTION>到</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>赤</WRONG>
+    <CORRECTION>迟</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>道</WRONG>
+    <CORRECTION>到</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    李大明告诉他德老师，「真的不好意思，下次我很小心。」
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>德</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他照空位子坐着看书。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>照</WRONG>
+    <CORRECTION>找</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    昨天晚上李大明根其他的朋友去夜店跳舞喝酒。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>根</WRONG>
+    <CORRECTION>跟</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    各天早上闹钟响很久，他没办法起床。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>各</WRONG>
+    <CORRECTION>隔</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他睡很跑，睡到忘了时间起床。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>跑</WRONG>
+    <CORRECTION>饱</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他想：「这样我一定会持刀的！怎麽办？」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>持</WRONG>
+    <CORRECTION>迟</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>刀</WRONG>
+    <CORRECTION>到</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    老师很生气，就跟他说：「别再持刀！如果你又这样，我就不让你进来教室，知道了吗？」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>持</WRONG>
+    <CORRECTION>迟</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>刀</WRONG>
+    <CORRECTION>到</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大明只好跟老驰说：「对不起！我知道了！」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>驰</WRONG>
+    <CORRECTION>师</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他终于来了，他门才开始小考试。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他想来想去明天告诉他们应该会多桉情一点。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>桉</WRONG>
+    <CORRECTION>安</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>静</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    今天他很煳涂，他的书，工课，什麽的都不见了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>工</WRONG>
+    <CORRECTION>功</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们跳舞跳得很高兴，没想到跳着跳着就照过半夜了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>照</WRONG>
+    <CORRECTION>超</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    到了教室以后才知道今天并不是期末考，他被老师妈了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>妈</WRONG>
+    <CORRECTION>骂</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我打算到十二点半玩，然后会回家，可是我认识两个漂亮的努孩子了，也喝了很多酒。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>27</LOCATION>
+    <WRONG>努</WRONG>
+    <CORRECTION>女</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我不记得什麽时候我回了家，可是起了船很晚。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>船</WRONG>
+    <CORRECTION>床</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我起了船，洗了刷牙，换了衣服，马上就跑到公车佔了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>船</WRONG>
+    <CORRECTION>床</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>佔</WRONG>
+    <CORRECTION>站</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    上课的时候我的中文老师她看起来很生气，我知道是我得错。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你现在生体的情形应该好多了吧？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>生</WRONG>
+    <CORRECTION>身</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    希望你生体好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>生</WRONG>
+    <CORRECTION>身</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我今天本来想去看你，可是明天要期末考，我需要复习。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>复</WRONG>
+    <CORRECTION>複</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你可以路行在越南。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>路</WRONG>
+    <CORRECTION>旅</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我厅美琴说你病了，有一个月没来上课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>厅</WRONG>
+    <CORRECTION>听</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我很担心你的健康，因为你身体一责都不是很好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>责</WRONG>
+    <CORRECTION>直</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我的家有爸爸、吗吗、哥哥跟我。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>吗</WRONG>
+    <CORRECTION>妈</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>吗</WRONG>
+    <CORRECTION>妈</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    听说你的身体不好。你是怎码样？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>码</WRONG>
+    <CORRECTION>麽</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    真的不好以思。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>以</WRONG>
+    <CORRECTION>意</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    有吗吗、弟弟、姊姊还有我。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>吗</WRONG>
+    <CORRECTION>妈</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>吗</WRONG>
+    <CORRECTION>妈</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我回国之后，我跟快去你家。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>跟</WRONG>
+    <CORRECTION>很</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    对不起下个月我要跟爸霸去美国，所以我不能祝福你。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>霸</WRONG>
+    <CORRECTION>爸</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    情爱的李大明和林小美，恭喜恭喜妳们结婚，我祝妳们很开心。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>亲</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我受到了你们的结婚卡。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>受</WRONG>
+    <CORRECTION>收</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这是他们的第一次来台湾，他们两个人不可以去玩台呗。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>24</LOCATION>
+    <WRONG>呗</WRONG>
+    <CORRECTION>北</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不好意思！我不可以去，因为我很忙这个月很少修息，下次我们一起持分号码？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>修</WRONG>
+    <CORRECTION>休</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>持</WRONG>
+    <CORRECTION>吃</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>分</WRONG>
+    <CORRECTION>饭</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>号</WRONG>
+    <CORRECTION>好</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>34</LOCATION>
+    <WRONG>码</WRONG>
+    <CORRECTION>吗</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    听到你们要结婚我非常的高兴！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    哪天在美国工作，所以我没办法参加。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可是今天有下雨，我们真得很难过！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    公园的旁边有一家餐厅，我们一起去哪裡吃饭。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    哪一天，我跟爸爸我妹妹还有我的哥哥一起去玩儿。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我妹妹很高兴我们给他一个很大的礼物，他说我爱我家人。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们玩着玩，就开始下大雨了，怎麽班呢？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>班</WRONG>
+    <CORRECTION>办</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们很不好意思因为我们的衣服很髒，可是福物生对我们很客气，他告诉我们不要担心。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>福</WRONG>
+    <CORRECTION>服</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>物</WRONG>
+    <CORRECTION>务</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们快要毕业了，所以他们想毕业旅行记念作回意。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>记</WRONG>
+    <CORRECTION>纪</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>作</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>意</WRONG>
+    <CORRECTION>忆</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们到的时候天起非常好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>起</WRONG>
+    <CORRECTION>气</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    过了一回ㄦ，开始下大雨。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>ㄦ</WRONG>
+    <CORRECTION>儿</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    等了半个小时的公车结果看到一辆２９７的公车，他们就很开心的上车。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    突然天黑了，开始下雨了，他们都很快的跑到安全的地方。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    应为食物都没办法吃了，但不得不吃，所以他们只好在那一家餐厅吃中饭。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>应</WRONG>
+    <CORRECTION>因</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    到山上，我门烤肉、吃水果、喝汽水，都好吃。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可是下雨时侯我们看到一家餐厅好大在旁边，我们到那家餐厅吃一点东西洋后回去。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>侯</WRONG>
+    <CORRECTION>候</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>洋</WRONG>
+    <CORRECTION>然</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他很用功念书，他希望明天会考的很好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    下课以后我建意跟同学一起去ＫＴＶ唱歌，过了很开心的时间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>意</WRONG>
+    <CORRECTION>议</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    虽然我不能跟你一起去，但我希望你可以玩儿得开心。难得的机会好好的放鬆吧！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    李大明我打算要去法国流行，我想你要不要跟我去，有朋友一起去比较好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>流</WRONG>
+    <CORRECTION>旅</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    应为我的出生在北美洲。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>应</WRONG>
+    <CORRECTION>因</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我想去到十份，因为我想座平溪线。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>座</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得在山上看风景很有意思，在哪裡野餐也不错。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你觉得真麽样？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>真</WRONG>
+    <CORRECTION>怎</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    明天我们去玈行吧，你要早一点起来。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>玈</WRONG>
+    <CORRECTION>旅</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我的好朋友，你好！习惯你的生活都很好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>习</WRONG>
+    <CORRECTION>希</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>惯</WRONG>
+    <CORRECTION>望</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我的朋友在哪裡说那边有的地方很有名，我们可以去玩吧！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我等你的答桉，习惯你下个月也有时间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>习</WRONG>
+    <CORRECTION>希</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>惯</WRONG>
+    <CORRECTION>望</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你要去的话，请你把间信寄给我。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>间</WRONG>
+    <CORRECTION>简</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>信</WRONG>
+    <CORRECTION>讯</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    听说韩国有很多好吃的东西，还有很多化妆品，我很想去哪裡买化妆品。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我是为了工作没时间有空，他忙着念书，这次我们两个可以见面时真直得的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>直</WRONG>
+    <CORRECTION>值</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他来的时候我把冰箱全部的采还有啤酒拿出来。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>采</WRONG>
+    <CORRECTION>菜</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我跟小明在客厅便喝啤酒便看电视，小明的流量很好，喝了很多可是没有醉。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>便</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>便</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>流</WRONG>
+    <CORRECTION>酒</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    刚好有啤酒，那喝把！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>把</WRONG>
+    <CORRECTION>吧</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    没关係，我去握放看一看冰箱裡有什麽。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>握</WRONG>
+    <CORRECTION>卧</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>放</WRONG>
+    <CORRECTION>房</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我去握放，我拿东西回去给我的朋友。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>握</WRONG>
+    <CORRECTION>卧</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>放</WRONG>
+    <CORRECTION>房</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大明很高兴他喝了很多埤酒，吃了很多东西。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>埤</WRONG>
+    <CORRECTION>啤</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你前看看电视裡有什麻好玩的，我去到厨房拿东西。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>前</WRONG>
+    <CORRECTION>先</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>麻</WRONG>
+    <CORRECTION>麽</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们就卓在沙发上边吃东西边看电视。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>卓</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大明说「请座，请座」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>座</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>座</WRONG>
+    <CORRECTION>坐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    好久不见了，青进来，这个是我的房间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>青</WRONG>
+    <CORRECTION>请</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我试一个很注意饮食安全，所已平常买菜时我都选不喷农药的有机菜药。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>试</WRONG>
+    <CORRECTION>是</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>已</WRONG>
+    <CORRECTION>以</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    希望您帮我素取公平，得到他们适当的赔偿。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>素</WRONG>
+    <CORRECTION>诉</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    除了帮忙学中文意外，有时候一起去玩向我介绍台湾的文化。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>意</WRONG>
+    <CORRECTION>以</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们不知道他们的真真的背景，是由于大家会随便写一写自己要写的事情。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>真</WRONG>
+    <CORRECTION>正</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    过了不久，他们不再根我联络了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>根</WRONG>
+    <CORRECTION>跟</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我所有跟他们的谈心呢，该不该他们以把它传给别人了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>以</WRONG>
+    <CORRECTION>已</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    想跟韩国人交朋友，刚好看到你的自我介绍，我想跟妳叫朋友。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>叫</WRONG>
+    <CORRECTION>交</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    拿到礼物的人不觉得使用，或一点儿都没有用处也许可能变成当拉圾。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>拉</WRONG>
+    <CORRECTION>垃</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    对阿，我也有同样的经验。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>阿</WRONG>
+    <CORRECTION>啊</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那个歌手是非常流行，我排队排了３个小时候，才买到了票。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>候</WRONG>
+    <CORRECTION>后</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是我好不容易买２张票后，小张说：「我们没有约定吧。我只是说想去厅演唱会而已、并没有拜託你买票啊。」
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>厅</WRONG>
+    <CORRECTION>听</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    她知道我很用心的去找，虽然不是她所幻想的那一双，其实也挺好看的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们没有为了这一场小误会、一比钱，干扰到我们两个朋友的感情。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>比</WRONG>
+    <CORRECTION>笔</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    妳人实在太大方太好了，因该确定人家要买才帮他买的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>因</WRONG>
+    <CORRECTION>应</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    虽然东西不是一比小钱，但是妳还是送他啦。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>比</WRONG>
+    <CORRECTION>笔</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不用担心啦，这其实是个小事情，不要匆动。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>匆</WRONG>
+    <CORRECTION>冲</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他想骗妳他自己麽有错，有错的是妳。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>麽</WRONG>
+    <CORRECTION>没</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果打工的项目是刚好跟你或妳有关自己的课係的相关的话当然非常不错。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>课</WRONG>
+    <CORRECTION>科</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>係</WRONG>
+    <CORRECTION>系</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    每此经济衰退很多学生不的不要休学，虽然毕业了并不找到很理想的工作。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>此</WRONG>
+    <CORRECTION>次</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大学生在工读期间便赚钱便读书是其实非常辛苦，但为了要生活要面对现实觉得第三者是无法理解的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>便</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>便</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    半工半读也可以使学生学习在教室裡学不道的东西，书本裡的观念到了真正情况下，常常是不同的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>道</WRONG>
+    <CORRECTION>到</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    很多朋友应为大学时半工半读，功课还维持的非常好，老闆就很欣赏，给他们工作机会。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>应</WRONG>
+    <CORRECTION>因</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    家裡要是有能力送学生读书不办工，我还是推荐他麽去学习学习。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>办</WRONG>
+    <CORRECTION>半</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>麽</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在读书的时候打工可以发现自己的能力到那些程度而慢慢去培养
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>那</WRONG>
+    <CORRECTION>哪</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大学生半工半读，有不是什麽很特别的事情。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>有</WRONG>
+    <CORRECTION>又</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是也有很多人支持打学生半工半读。他们认为这样好处多于坏处。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>打</WRONG>
+    <CORRECTION>大</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这对他们家庭，由其是家境贫困的家庭会有很多帮助。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>由</WRONG>
+    <CORRECTION>尤</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    第一个原因是高中时学校不准学生打工，所以学生只好利用像暑假等，较长时间得打工。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>36</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    她当然没有找到什麽东西啊！就很不好意思的跟我们说对不起。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果想起那间事情，我也还会觉得一点点害羞！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>间</WRONG>
+    <CORRECTION>件</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    真可惜妳没有好的消息可以跟我分享，而且妳遇到的情况那麽的难过！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    警察来了以后，就马上检查我朋友的包包，而且题很多问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>题</WRONG>
+    <CORRECTION>提</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我认为，连警察如果没有证据也不能检察别人的东西吧。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>察</WRONG>
+    <CORRECTION>查</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可是她包理没有我的钱包，以后她一直恨我，我跟她的关係就断了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>理</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为老师们常常听听学生们的困难，一定会比你门经验丰富，知道一个好办法，能处理这样的事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    受到妳的邮件，我一遍高兴一边难过，是因为妳的邮件让我开心，可是妳的消息让我惊讶。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>受</WRONG>
+    <CORRECTION>收</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>遍</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那位同学，钱包找到了没有？如果还没找到的话，她心裡还事会不太稳定，所以妳帮她找一找她的钱包吧！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>27</LOCATION>
+    <WRONG>事</WRONG>
+    <CORRECTION>是</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    起初我以为趁我去洗手间的时候，坐宰我旁边的人头我的手册。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>宰</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>头</WRONG>
+    <CORRECTION>偷</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如有难过的是你再跟我联繫，我很乐意帮你。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>是</WRONG>
+    <CORRECTION>事</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可能你的同学还不知道你是非常诚实的一个人，在加上国外情绪比较难控制的事实，就造成你同学这种态度。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>在</WRONG>
+    <CORRECTION>再</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    很多的人象垃圾车一直受到人家负面影响之后，找个地方把这一堆垃圾仍丢，所以你的清白并不表示这些「垃圾车」不会想把垃圾放在你身上。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>象</WRONG>
+    <CORRECTION>像</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为我坐在老师的桌子旁便，所以老师以为是我把它偷走。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>便</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    当然，每个人都不愿接受这样得感受。我也认识妳这麽久了，也相信妳绝对不可能做此行为。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得你的同学吴会你的脸上的感觉。本来你的感觉是担心的，可是他可能看错你脸上的感清。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>吴</WRONG>
+    <CORRECTION>误</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>41</LOCATION>
+    <WRONG>清</WRONG>
+    <CORRECTION>情</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他很有可能在关键时刻心理很恍惚，不知所措，才摆出那种先考虑到自己的自我保护性的手段。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>理</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你不要以为那个人认为你是个坏人，他很可能因为意识到钱不见而心理放忖大乱。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>放</WRONG>
+    <CORRECTION>方</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>忖</WRONG>
+    <CORRECTION>寸</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果那个人真的认识你，他一定会看出你心理的美好来，以及知道你多麽可靠！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>理</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    美英要不要式式看。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>式</WRONG>
+    <CORRECTION>试</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>式</WRONG>
+    <CORRECTION>试</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不知道妳现在在做什麽？妳还在难过吗？不用再烦恼嘛！好不好，也不比再想那件事！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>比</WRONG>
+    <CORRECTION>必</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我当然会很难过毕竟自己的同学说我在拿的东西我也会给他看所有我带的东西请他慢慢得看我也很乐意帮他找钱包跟他好好聊天说不定他忘记带钱包到学校来，所以请你不要在难过。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>77</LOCATION>
+    <WRONG>在</WRONG>
+    <CORRECTION>再</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在我门班上一位同学。她父亲是全国着名的政治家。难怪，她家钱多得很。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以每天她来学校的时候都穿着时髦的衣服，戴着美丽的冒，拿着贵贵的书包。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>冒</WRONG>
+    <CORRECTION>帽</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    情爱的美英！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>亲</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我或多或少了解你的心情，我也经验过一样得事情。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他因为掉了钱包，心理七上八下，盲目地问你是否你拿的吧。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>理</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我小时后，有一个同学过来跟我说不见的东西，因为我常说那个东西很漂亮，所以他说应该是我偷走的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>后</WRONG>
+    <CORRECTION>候</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    以客观性的单位或机官来举办研讨会，让一般民众了解真相，当做公开讨论的场合。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>官</WRONG>
+    <CORRECTION>关</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而且花莲是个很有特微的地区，为美景着名。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>微</WRONG>
+    <CORRECTION>徵</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    宜兰及罗东的人民都抱怨之从雪山隧道完成之后，他们的收入便少。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>之</WRONG>
+    <CORRECTION>自</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>便</WRONG>
+    <CORRECTION>变</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    地球的臭氧层的波洞越来越严重使紫外线容易伤害我们的娇嫩的皮肤，很多人的到皮肤癌，很多畸形儿。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>波</WRONG>
+    <CORRECTION>破</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>35</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    发展花莲观光事业我们不必用怀环境的方法。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>怀</WRONG>
+    <CORRECTION>坏</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是在海里有很多动物比如吞，他们丢垃圾会让我们的海边很不健康也对动物的身体非常不好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>里</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得如果我们对我们的环境不好，那我门是在让我们的生态破坏。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我想如果想要保护这个风景那也要看人民的想法。如果人民一起怒力或是互相保护。我看啊这裡的风景一定会保护的很好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>怒</WRONG>
+    <CORRECTION>努</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    环境污然的问题已很严重，如果我们现在不行动挽救地球，久而久之，地球的能源就会消失，因此造成经济萧条。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>然</WRONG>
+    <CORRECTION>染</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    高速公路兴建以后，会吸引很多私人开车到东部去，这些车子再加上工厂或商业车子的废气会造成空气污然。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>47</LOCATION>
+    <WRONG>然</WRONG>
+    <CORRECTION>染</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    空气物染、水质物然、地球暖化、动植物面临绝种等是我们正在面对的经济发展后果。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>物</WRONG>
+    <CORRECTION>污</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>物</WRONG>
+    <CORRECTION>污</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>然</WRONG>
+    <CORRECTION>染</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果环境以这个速度污然下去，人类根本无法生存在这个地球上，还用讲什麽经济发展吗？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>然</WRONG>
+    <CORRECTION>染</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我选檡是环境保护。无视环境保护，重视经济发展越来越对环境不好，因为要经济发展的话，一定破坏很多自然，像树啊、海啊、山啊身麽的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>檡</WRONG>
+    <CORRECTION>择</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>60</LOCATION>
+    <WRONG>身</WRONG>
+    <CORRECTION>什</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    连台湾人也觉得很冷也他们不想关冷气。他们每天带长袖。不知道为身麽他们怎麽哪麽喜欢开冷气。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>身</WRONG>
+    <CORRECTION>什</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    好高兴受到你的信，真是好消息你有兴趣来纽西兰研究我们的食物。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>受</WRONG>
+    <CORRECTION>收</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    一般来说，听到日本的传统食物，大家会想到生鱼片、天普罗、寿司之类的东西。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>普</WRONG>
+    <CORRECTION>妇</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我认为所谓日本的家常菜是指味增汤，儘管现代人吃的愈来愈少，不过它仍然不可或缺的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>增</WRONG>
+    <CORRECTION>噌</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    真的好就不见。我呢～过得很好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>就</WRONG>
+    <CORRECTION>久</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    还有一个叫「ｓａｍｇｅｔａｎｇ」这个食物是对身体很好的，可以捕身体的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>捕</WRONG>
+    <CORRECTION>补</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    还有餐厅．．．我个人认为卫生是做重要的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>做</WRONG>
+    <CORRECTION>最</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    目前，我门的国家不见得必须升学研究所。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    结果他们看不起学不好的同学，为了作工课不做该负责的学校的事情，就变成了一个很自私的人。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>作</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>工</WRONG>
+    <CORRECTION>功</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不知道乍麽相处别人的话，在公司跟很多人一起工作时会产生问题吧。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>乍</WRONG>
+    <CORRECTION>怎</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在人生中，最重要的是身麽？我们为身麽过日子？为了幸福！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>身</WRONG>
+    <CORRECTION>什</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>身</WRONG>
+    <CORRECTION>什</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    第一年上办还是没事其实一毕业，他就进了一家很有名的公司上班。第一年上办还是没事。每月的收入也是很高跟他想的一样。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>办</WRONG>
+    <CORRECTION>半</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>35</LOCATION>
+    <WRONG>办</WRONG>
+    <CORRECTION>半</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    读名校的好处是可以得到比较好的教噢，可是不一定毕业以后可以找到好的一份工作，很高的薪水。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>噢</WRONG>
+    <CORRECTION>育</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果我考上不太有名的大学的话也很难找工作，因为现在社会的公司都要比较有明大学毕业的人。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>36</LOCATION>
+    <WRONG>明</WRONG>
+    <CORRECTION>名</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    社会是人作出来，以后又怎麽样的进化都须要跟他人沟通的能力，需要想别人的心和需求。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>须</WRONG>
+    <CORRECTION>需</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    对想养宠物放便，也对宠物公平。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>放</WRONG>
+    <CORRECTION>方</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    为了将来，许多人就一班工作，一班读研究所。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>班</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>班</WRONG>
+    <CORRECTION>边</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这个宠物死掉的时候有心的养主一定会难过，可是这个时候可以学习有钱也买部到的生命的价值。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>35</LOCATION>
+    <WRONG>部</WRONG>
+    <CORRECTION>不</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    有一天她突然晚上打电话给我，没说着一只哭，过了一段时间，她说那个狗今天晚上死了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>只</WRONG>
+    <CORRECTION>直</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得当我们需要陪伴的时候，我们祖牠们，不需要就换回来，对牠们来说有一点不公平。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>祖</WRONG>
+    <CORRECTION>租</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    人过生活该有一个理性：当你在努力地追求你的目标，你可别望了一定要好好地过生活。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>望</WRONG>
+    <CORRECTION>忘</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    它们可爱单纯的动作可让你露出一个清鬆的笑容。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>清</WRONG>
+    <CORRECTION>轻</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    宠物的地立在我们的社会裡是多高？我们人类把动物看成「生物」还是「东西」？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>立</WRONG>
+    <CORRECTION>位</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    租一枝小狗只像租一本书回家看看，看完或者玩够就还回去。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>枝</WRONG>
+    <CORRECTION>隻</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    儘管我可以想像在大都市养宠物是相当不方便，租小狗比买了一枝狗而弃养物好，但是我认为我们要抱持对生物的尊重，想像一下我们有一天也被出租，过几天还回去，好像一枝动物。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>枝</WRONG>
+    <CORRECTION>隻</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>34</LOCATION>
+    <WRONG>物</WRONG>
+    <CORRECTION>牠</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>78</LOCATION>
+    <WRONG>枝</WRONG>
+    <CORRECTION>隻</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    并且有人觉得随着世界全球化小孩长大后再就业方面竞争激烈，因此必须尽早开学习。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>再</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果您真得要退休的，应该把公司的事情交给我弟弟。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我听到你在电话对朋友说你下些星期要叫我去跟你一起工作，可是我并不想安照你的想法做我的未来。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>34</LOCATION>
+    <WRONG>安</WRONG>
+    <CORRECTION>按</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我不知道你有没有发现我对当老闆还是当员工我没有什麽兴趣跟能力。我生活都是根音乐有关係。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>37</LOCATION>
+    <WRONG>根</WRONG>
+    <CORRECTION>跟</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这销析对你来说应该是很刺刺的，可是你也应该了解我的点子。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>销</WRONG>
+    <CORRECTION>消</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>析</WRONG>
+    <CORRECTION>息</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果是一个乐器的公司我当然要继续，可是对做蛋糕我没班法。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>班</WRONG>
+    <CORRECTION>办</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我已经参加了一个音乐团，现在不要放弃。我觉得如果你真的不想停公司我最好是你认耐一下。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>38</LOCATION>
+    <WRONG>认</WRONG>
+    <CORRECTION>忍</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    希望以后我的子孙还有机会看到我盖的这个大楼，也会留给他们好印像。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>像</WRONG>
+    <CORRECTION>象</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我也不想毁了您一生的心血，到时候我自己我会觉得自己是个败家子，很失败，在也抬不起头来面对爸爸和所有的人。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>36</LOCATION>
+    <WRONG>在</WRONG>
+    <CORRECTION>再</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以这两年来我一边图书、一边打工。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>图</WRONG>
+    <CORRECTION>读</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而且我不知道该说什麽，所以一直都站在那裡听客人的报怨，因为我什麽都没有说话，所以客人更生气。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>报</WRONG>
+    <CORRECTION>抱</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    到时候我们的店长过来求我。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>求</WRONG>
+    <CORRECTION>救</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们身体都莫名其妙的带上很多病患，生活碰到很多障碍。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我要当医生，好好而的研究医术，希望可以帮忙他们快一点回复，实现自己的梦想，这就是我的梦想！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>而</WRONG>
+    <CORRECTION>儿</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>27</LOCATION>
+    <WRONG>回</WRONG>
+    <CORRECTION>恢</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我从小很喜欢当老师，所以每天都恨努力学习，希望将来可以教大家的知识。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>恨</WRONG>
+    <CORRECTION>很</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我也看到现在世界上也有很多人没有那麽多机会去上课，学习人类的文化，所以让他们常常做错，以后犯罪了就被社会分别，真得很苦。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>57</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    您好！最近身体好码？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>码</WRONG>
+    <CORRECTION>吗</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他如果作的不好您还是可以换个人选，但是我觉得弟弟一定会尽力因为他不想让爸爸失望。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>作</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    您好，情爱的父亲。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>亲</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以你退休之后，你好好使用你的馀生事间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>事</WRONG>
+    <CORRECTION>时</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我不知道怎麽说才好，我知道你的一生那麽辛咕，我现在才知道你要退休。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>咕</WRONG>
+    <CORRECTION>苦</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    现在的企业有专门的经营人来经营我觉得有道理。如果你可以接收这种方法我的心就轻鬆多了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>收</WRONG>
+    <CORRECTION>受</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我希望你退休以后你就多多去吕行，检查健康，多多赔妈妈享收你的另以外的人生。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>吕</WRONG>
+    <CORRECTION>旅</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>24</LOCATION>
+    <WRONG>赔</WRONG>
+    <CORRECTION>陪</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>收</WRONG>
+    <CORRECTION>受</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可是我觉得如果继续工作对她来说是比较好。女人结婚以后继续工作就给他多自由跟独立。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在全世界现代比古代女人有权力，我就觉得他们应该利用这个权力。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果以后发生离婚会很困难的继续生活。这些人有这个想法不知道应该如何对女生。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们觉得女生是喂了服务男生。真的没有道理。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>喂</WRONG>
+    <CORRECTION>为</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    跟以前不一样，人口集中都市，反而人跟人的关係越来越希薄了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>希</WRONG>
+    <CORRECTION>稀</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    女生结婚生子以后，应该继续工作档个职业妇女。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>档</WRONG>
+    <CORRECTION>当</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以为了预备突然另一伴被开除，发生意外的事等等，女生也应该结婚生子后也继续工作，避免家庭完全没有收入的风险。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>伴</WRONG>
+    <CORRECTION>半</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    还有，在家裡也要有个亲人看着，绝对不能让孩子单独跟保母在家理。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>30</LOCATION>
+    <WRONG>理</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    下班之后，我就会将时间全部用来照顾孩子和先生。这样不是两全其美的是吗？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>是</WRONG>
+    <CORRECTION>事</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    很多暴力家庭，外偶也是从这个点子发生。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>偶</WRONG>
+    <CORRECTION>遇</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我个人认为现在还是存在所谓「重男经女」的观念，所以身为女性我不想让一些人看不起女生。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>经</WRONG>
+    <CORRECTION>轻</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    有的老闆因为想法还是存在「重男经女」的观念而总是看不起女生，所以「结婚生子之后你的工作能力一定退步了」可以变成很好的离职理由。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>经</WRONG>
+    <CORRECTION>轻</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    或是有的老公很自私要求自己的老婆得在家照顾家庭不让他去上班。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>她</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    总而言之，女人只要有信心，勇敢追促自己的梦想，说不定还比男生更厉害喔！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>促</WRONG>
+    <CORRECTION>逐</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    首先，因为医学的进步以及生活品质的提高，现代的女生不需要生很多孩子。于此同时，托儿所，小学已经普及各地。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>35</LOCATION>
+    <WRONG>于</WRONG>
+    <CORRECTION>与</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果女人生字以后就不再做工作，她们以前获得的专门知识与技术都在工作上无法使用了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>字</WRONG>
+    <CORRECTION>子</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    人类的一般就是女人，如果不好好利用她们的生产力，把国家的总生产力不容易再提高。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>般</WRONG>
+    <CORRECTION>半</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    她们之所以会有着重病是因为她们正天待在家陪小孩，而没有机会出去接触外面的世界。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>着</WRONG>
+    <CORRECTION>这</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>重</WRONG>
+    <CORRECTION>种</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>正</WRONG>
+    <CORRECTION>整</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    最近妇女有比较多的选檡可以做她们想要做的事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>檡</WRONG>
+    <CORRECTION>择</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我也希望有一天我可以跟她一样的成功了。现代社会裡，比以前的差很多阿。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>阿</WRONG>
+    <CORRECTION>啊</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    女人会浪费她们的人才如果一值留在家裡。中点是婚礼的关係公平不公平。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>值</WRONG>
+    <CORRECTION>直</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>中</WRONG>
+    <CORRECTION>重</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在无论哪个国家工作赚钱都辛苦，因而职业妇努减少家庭赚钱的压力。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>努</WRONG>
+    <CORRECTION>女</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不过在许多传统文化的国家，女人向未得到平等。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>向</WRONG>
+    <CORRECTION>尚</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    许多非洲移民一旦到了欧洲区的国家去，就很难接受男女平等的原则，甚至遇到法律上的冲秃。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>41</LOCATION>
+    <WRONG>秃</WRONG>
+    <CORRECTION>突</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在法国，女人是从第一次世界大战而得到权力，由于当时武器的製造过程需要人工，因此女人在工厂裡自然而然地替代男人。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>力</WRONG>
+    <CORRECTION>利</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    虽然我的生日快到了，但我最近心情也不太好，因为家裡经济出了问题，父亲就必须在超市上班，所以你的性情我能够了解。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>48</LOCATION>
+    <WRONG>性</WRONG>
+    <CORRECTION>心</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    说话我也听说过现在有不少公司开始实拖了无薪假，其实我的公司去年也执行了无薪假。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>拖</WRONG>
+    <CORRECTION>施</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    唉，大明，我可以体会你的心情阿。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>阿</WRONG>
+    <CORRECTION>啊</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你公司属于纺织业，产品向国外出口所以应该也收到了很大的影响。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>收</WRONG>
+    <CORRECTION>受</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我那时候也再一家劳务出口公司担任开发市场职务。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>再</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是我又想，自己有知识只要坚定去做一选择的目标，总可以克服可观影响的．．．所以我就开发六学有雪方面。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>44</LOCATION>
+    <WRONG>六</WRONG>
+    <CORRECTION>留</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>46</LOCATION>
+    <WRONG>有</WRONG>
+    <CORRECTION>游</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>47</LOCATION>
+    <WRONG>雪</WRONG>
+    <CORRECTION>学</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    很多人因为没工作，忧鬱成疾，还有人选择自杀，种种相关问题，不断的在社会上出现。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    像我身边也有很多人，因为经融海啸，公司裁员，弄得大家都没工作。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>经</WRONG>
+    <CORRECTION>金</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这只是个过度期，你就当公司放假，趁这个时机，就出去外面走走吧！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>度</WRONG>
+    <CORRECTION>渡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你说现在你的公司收了经济的影响，你的薪水变低很多。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>收</WRONG>
+    <CORRECTION>受</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你家人你的薪水生活，难鱠你们难过得很，可是你还有工作。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>鱠</WRONG>
+    <CORRECTION>怪</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    钱变便宜的有点是对外国来说这个国家的出口品变便宜。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>国</WRONG>
+    <CORRECTION>优</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为现在各各国家的经济情况越来越互相关联，不管你在哪裡，也不管你是做什麽工作的，经济不好的时候都会失业的可能性。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>各</WRONG>
+    <CORRECTION>个</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    目前受到国际经济退步影响之下大家多少多有影响，处处多有人事业。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>多</WRONG>
+    <CORRECTION>都</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>多</WRONG>
+    <CORRECTION>都</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>事</WRONG>
+    <CORRECTION>失</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    后来找到这分工也是很累，刚开始我也收不暸可是想到经济不好到哪裡都一样，大家都找不到工作，就是我找得到。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>分</WRONG>
+    <CORRECTION>份</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>收</WRONG>
+    <CORRECTION>受</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>暸</WRONG>
+    <CORRECTION>了</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我一天接着一天得工作慢慢的习惯，很累是很累但很开兴是因为找到了工作。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>兴</WRONG>
+    <CORRECTION>心</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    还有几天才到我的生日，如果到时侯姓青号一点再去，这次没办法参加我的生日没关係，有空的时候我回去找你喔。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>姓</WRONG>
+    <CORRECTION>心</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>青</WRONG>
+    <CORRECTION>情</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>号</WRONG>
+    <CORRECTION>好</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>46</LOCATION>
+    <WRONG>回</WRONG>
+    <CORRECTION>会</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    助你开兴！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>助</WRONG>
+    <CORRECTION>祝</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>兴</WRONG>
+    <CORRECTION>心</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    像我现再也是四天上办，三天休假，这段有空的时间我到补习班学英文，希望景气回复我英文也好一点可能也有机会加薪的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>再</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>办</WRONG>
+    <CORRECTION>班</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>37</LOCATION>
+    <WRONG>回</WRONG>
+    <CORRECTION>恢</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们的人生还有很多值得你去最求，值得你去实现它。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>最</WRONG>
+    <CORRECTION>追</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你生边的生活还有你的太太，女儿，朋友等着你去关心，照顾他们。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>生</WRONG>
+    <CORRECTION>身</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    没想到一年之后，因为此全世经济大萧条的影响，我也得面对并接受失去此分工作的事实。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>34</LOCATION>
+    <WRONG>分</WRONG>
+    <CORRECTION>份</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    目前，他也在积极的找寻其他工作。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所谓，不经一番寒澈骨，焉得梅花扑鼻香。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>澈</WRONG>
+    <CORRECTION>彻</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我在下个星期的生日会，我们大学同学都会参与，我由衷的希望你也会一同出席。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    很高兴受到你的信，而且感谢你来庆祝我的生日。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>受</WRONG>
+    <CORRECTION>收</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    老闆一直教我们员工加班而我们也没领到加薪的钱。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>教</WRONG>
+    <CORRECTION>叫</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    还好我有很好的太太，她不但每天鼓励我而且还偷偷的自己找工作然后当我们快缺钱是她伸手帮我贴补这些钱。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>24</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得你不应该觉得很难过，因为你还有工作可以做。也许全球经济衰退很快会慢慢的好起来。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>38</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是如果你坐着一些一定要跟其他人不一样，所以客户可以感觉到你的优点及会喜欢你的产品。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>坐</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>着</WRONG>
+    <CORRECTION>这</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    看完你的信以后，我的心情跟你想当：「万分难过」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>想</WRONG>
+    <CORRECTION>相</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我之所以可以那麽乐罐，是因为我在工作方面很认真，再加上不断地学习新知，所以老闆肯定我的能力。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>罐</WRONG>
+    <CORRECTION>观</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为你是可塑高的人，没什麽困染可以让你退步，对不对？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>染</WRONG>
+    <CORRECTION>难</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那一天生日的时后，大家玩的很开心的照片，已经上传到我的脸书上了，可以去那看看。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>后</WRONG>
+    <CORRECTION>候</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    非常高兴受到你的信，而且希望你还是能够来参加我的生日会！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>受</WRONG>
+    <CORRECTION>收</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    经济好了的时候，你的同时都跟危机以前都一样，不过你就可以出风头。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>时</WRONG>
+    <CORRECTION>事</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他用假日这个事间画画各种各样的画。谁知道他的画真的不错！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>事</WRONG>
+    <CORRECTION>时</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这样的经济状况是经济週期循环裡的低潮，只要过了低潮，就会慢慢进入高潮，经济就会慢慢恢复正常了，因为这是经济里的成长。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>54</LOCATION>
+    <WRONG>里</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我非常了解你的心情，不过你也要好好加油的去面对，除了可以训练你的意力，也同时可以让你对钱财规画有关念，其实它何常不是件好事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>意</WRONG>
+    <CORRECTION>毅</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>47</LOCATION>
+    <WRONG>画</WRONG>
+    <CORRECTION>划</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>49</LOCATION>
+    <WRONG>关</WRONG>
+    <CORRECTION>观</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>56</LOCATION>
+    <WRONG>常</WRONG>
+    <CORRECTION>尝</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    景气不好时后不仅会影响大局且还影响到不少企业界。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>后</WRONG>
+    <CORRECTION>候</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我想你也一样可以克服目前的困景，等景气好转时你的生活方面会好转的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>景</WRONG>
+    <CORRECTION>境</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果我们一期进步会让大家都比较好。正在跑步的人应该要先帮迷路的找路所以以后就一起过瀛。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>期</WRONG>
+    <CORRECTION>起</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>42</LOCATION>
+    <WRONG>瀛</WRONG>
+    <CORRECTION>赢</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我国家的青少年也有这样的想法，好像他们全部的生命都在网路裡，他们认为所有的情形都可以在网路上做的到。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>48</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    有的朋友除了去吃饭一外，整天都在家上网。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>一</WRONG>
+    <CORRECTION>以</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我个人的看法是：网罗并不是个坏事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>罗</WRONG>
+    <CORRECTION>络</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    对青少年的进步来说也不是个巨大的防碍，问题的症结所在就是没有人来给他们结少网络的用法，他们应该怎麽使用网络会提供所有的好处。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>防</WRONG>
+    <CORRECTION>妨</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>36</LOCATION>
+    <WRONG>结</WRONG>
+    <CORRECTION>减</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以有些家庭裡父母会决定要禁止孩子用电脑，这种作法并不能来决释问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>30</LOCATION>
+    <WRONG>决</WRONG>
+    <CORRECTION>解</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    那看这个孩子的青框我怎麽办呢？当初我每天下课以后让他用教室裡的电脑自己来学习电脑和网罗到底是怎麽用的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>青</WRONG>
+    <CORRECTION>情</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>框</WRONG>
+    <CORRECTION>况</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>43</LOCATION>
+    <WRONG>罗</WRONG>
+    <CORRECTION>络</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    青少年的时候会很容易被游戏吸引，一但被游戏卓迷，就很难控制自己。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>卓</WRONG>
+    <CORRECTION>着</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我在外国很容易寄给朋友短讯啊、电话啊、聊天！我觉得在外国过一个人的生活没有寂莫，是因为我想跟朋友联络，就马上会联络。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>39</LOCATION>
+    <WRONG>莫</WRONG>
+    <CORRECTION>寞</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    俗语说的好：「读破万书卷，下笔如有神」，所以一篇形云流水与下笔生花的文章由来经常都是下了很大的功夫在阅读不同的书籍。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>形</WRONG>
+    <CORRECTION>行</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他也很爱上网，平日从下课后到夜裡，周末一天一直玩网路游戏，在网路聊天室跟很多同学与朋友聊天，看Ａ片等。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>周</WRONG>
+    <CORRECTION>週</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    还好那时没有那麽多的功课，要不然我也不知到我要怎麽写我的功课，找一些资料，或缴交我的功课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>到</WRONG>
+    <CORRECTION>道</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我很支持「加场限制青少年上网实数」，理由是因为青少年不应该一整天在家裡窝着然后坐在电脑前面。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>加</WRONG>
+    <CORRECTION>家</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>场</WRONG>
+    <CORRECTION>长</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>实</WRONG>
+    <CORRECTION>时</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不要让他们想青蛙在桶子裡，只知他们的世界裡很大但是却不知外面的世界其实比他们想像中还要大。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>想</WRONG>
+    <CORRECTION>像</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    再说我也认为父母的一言以行是孩子学习的榜样，如果孩子学坏的话父母也有责任。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>以</WRONG>
+    <CORRECTION>一</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大学就读数位媒体设计系的我，网路在我生活上暂了很重要的一部分。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>暂</WRONG>
+    <CORRECTION>佔</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    图书馆搜寻资料也许花费你３０分钟的时间，相对的网路却只要１０分钟内即可以解决，甚至是更快速的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以说我认为网路对身体和心理发展有不良的影响这个观点，不应该都放在各各孩子的身上。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>35</LOCATION>
+    <WRONG>各</WRONG>
+    <CORRECTION>个</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大该十年以前家裡有电恼的人算是有钱，但是现在差不多都有了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>该</WRONG>
+    <CORRECTION>概</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>恼</WRONG>
+    <CORRECTION>脑</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    对我来说；没网路的一天是休天；如两天会难过；如三天就完挡了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>挡</WRONG>
+    <CORRECTION>蛋</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为他花太多时间跟朋友们玩电脑游戏，怕他的成绩会差。我爸妈每次劳到他要做功课。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>劳</WRONG>
+    <CORRECTION>唠</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>到</WRONG>
+    <CORRECTION>叨</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    影像小孩子想得快，学习管理的斑法，做好决定等等。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>像</WRONG>
+    <CORRECTION>响</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>斑</WRONG>
+    <CORRECTION>办</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    宰我的生活我常常上网吸收新的知识，比如说看文章、看新闻、下载多媒体资料和学习科目等。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>宰</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在越南现在的青少年玩电脑越来越多，所以家长官孩子也很严，但是这样子的话也会有相反。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>官</WRONG>
+    <CORRECTION>管</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    有的人为了想上网而对爸爸妈妈说谎话像像买书，文具什麽的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>像</WRONG>
+    <CORRECTION>想</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我现在来台湾读书，也是用电脑写报告，上网查资料，跟老师联络，听ＣＤ，上学校的网页，什麽地。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>44</LOCATION>
+    <WRONG>地</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是一直看着电脑也对身体不好，特别是眼睛，应该要有休息的时间，或者是让身体运动也下。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>40</LOCATION>
+    <WRONG>也</WRONG>
+    <CORRECTION>一</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    浪费电，害眼睛近视，不跟别人交流在线上交流有实际马？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>马</WRONG>
+    <CORRECTION>吗</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我可以取例子像：有的家庭很穷但是孩子对网路上瘾而偷家裡的钱去玩，有的青少年为了上网玩电动游戏而把自己的自行车卖掉。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>取</WRONG>
+    <CORRECTION>举</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是我有电脑以后我才发现，我上网的时数比看书的时数长的多。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>27</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    能够及时拥有资讯对我的生活来说非常的重要。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    毕竟在这个资讯爆炸的时代要占尽先机那就得先掌握资讯。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>占</WRONG>
+    <CORRECTION>佔</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    许多家长一昧的认为网路是传递和散播不良资讯的途径，但是他们这样的行为动作却无形中抹杀了接触新资讯的空间与时间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这反倒是让青少年无法很好地与世界接轨，让他们不经意的被社会淘汰。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>地</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所以无论是上网打电动或者上网聊天，上网的时数一定会比念书来的更多。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>30</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    情爱的李厂长。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>亲</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    水饺和新鲜的空气都很重要，对不对？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>水</WRONG>
+    <CORRECTION>睡</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>饺</WRONG>
+    <CORRECTION>觉</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我是王天华，家裡就在于您工厂的附近，邻居们摆脱我当他们的代表人给李厂长写了这封信。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>摆</WRONG>
+    <CORRECTION>拜</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>脱</WRONG>
+    <CORRECTION>託</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果李厂长还是觉得这是理所当然的事，我们住宅人也不能再对您客气了，我们得签名诰贵工厂，请律师来帮我们处理。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>39</LOCATION>
+    <WRONG>诰</WRONG>
+    <CORRECTION>告</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我家比你的工厂很近，附近噪音跟臭味对大家有很大的影响，你可不可以处理那件事情？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>比</WRONG>
+    <CORRECTION>离</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    还有您的废物出来的时候要马上处理好，不要集成一大碓或存动不流通而产生臭味。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>集</WRONG>
+    <CORRECTION>积</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>碓</WRONG>
+    <CORRECTION>堆</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>动</WRONG>
+    <CORRECTION>到</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果那时间工厂的噪音和废水还没处理，我们只有要救您工厂停工。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>24</LOCATION>
+    <WRONG>救</WRONG>
+    <CORRECTION>求</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我妳那情的时候，也在您的工厂打工。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>那</WRONG>
+    <CORRECTION>年</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>情</WRONG>
+    <CORRECTION>轻</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    重点是因为您的工厂最近让山西区附近不舒服，我们都爬越来越多人也会搬家，还有谁敢搬家到我们附近？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>爬</WRONG>
+    <CORRECTION>怕</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    长时居住于李厂长至附近，最近本人和其邻居发现李厂长的工厂负面的影响我们住民的生活平直。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>至</WRONG>
+    <CORRECTION>之</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>41</LOCATION>
+    <WRONG>平</WRONG>
+    <CORRECTION>品</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>42</LOCATION>
+    <WRONG>直</WRONG>
+    <CORRECTION>质</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    噪音会影响睡眠平直，孩子无法在家裡专心的写功课，更无法在家裡休息。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>平</WRONG>
+    <CORRECTION>品</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>直</WRONG>
+    <CORRECTION>质</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    对居民而言，臭味是一项我们真不好意思提出的问题，不过本人向李厂长说，臭味也会影响生活平直。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>43</LOCATION>
+    <WRONG>平</WRONG>
+    <CORRECTION>品</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>44</LOCATION>
+    <WRONG>直</WRONG>
+    <CORRECTION>质</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    居民认为工厂造成的污染会危险我们的身命，因此希望李厂长会进行一项全面调查，刺量工厂对居民的危险度。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>危</WRONG>
+    <CORRECTION>威</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>险</WRONG>
+    <CORRECTION>胁</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>身</WRONG>
+    <CORRECTION>生</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>38</LOCATION>
+    <WRONG>刺</WRONG>
+    <CORRECTION>测</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    所上面提到的问题对邻居健康权利很重要，如果再次月情况不变，邻居会会报情况到市政府环保所。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>再</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我失王天华，一位住在您的工厂附近的邻居。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>失</WRONG>
+    <CORRECTION>是</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    关于你工厂臭味的问题，也已经让你工厂的邻居受不了了，连我们的食物受到这个臭味的印象。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>40</LOCATION>
+    <WRONG>印</WRONG>
+    <CORRECTION>影</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>41</LOCATION>
+    <WRONG>象</WRONG>
+    <CORRECTION>响</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    李厂长的企业在这裡奠立已经三十年了，从来没有跟居民有任何的冲突，居民也了解所工厂对我们城市经济的帮助。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>奠</WRONG>
+    <CORRECTION>建</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    为了解决嘈音的问题，我建议你工厂牆壁应该安装隔音玻璃，或者你儘量改善工厂里面机械质量。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>嘈</WRONG>
+    <CORRECTION>噪</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这样的话你们不但被罚单，而且你们恐怕会们办法在这边营运下来，或是我们会向一些媒体报导让你们公司关闭。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>们</WRONG>
+    <CORRECTION>没</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果卫生局发现工厂不合格，我们相信您一定会被除罚。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>除</WRONG>
+    <CORRECTION>处</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这附近的朋友们我都认识，我也了解他们的生活而习惯。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>而</WRONG>
+    <CORRECTION>和</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你的工厂机器声音是海曼大声，我家已经离您的工厂很远，可是还会听到。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>海</WRONG>
+    <CORRECTION>还</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>曼</WRONG>
+    <CORRECTION>蛮</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们相信您可以了解和可以马上决绝这问题，可是如果您不处理，我们就没办法还是要把这问题带到法庭那边决绝。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>决</WRONG>
+    <CORRECTION>解</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>绝</WRONG>
+    <CORRECTION>决</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>49</LOCATION>
+    <WRONG>决</WRONG>
+    <CORRECTION>解</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>50</LOCATION>
+    <WRONG>绝</WRONG>
+    <CORRECTION>决</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    拜託您请找一个帮组您的一个人来把噪音跟臭味不要再发现。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>组</WRONG>
+    <CORRECTION>助</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我希望你们受到我代表这裡的邻居写的这封信马上检查，改善噪音和臭味。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>受</WRONG>
+    <CORRECTION>收</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这个件况对大家很讨厌因为每天大家都应该早起床因为他们应该去上班，上课，等等。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>件</WRONG>
+    <CORRECTION>情</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    大家也可怕你的工厂把自然被坏，比方说：对水和树有不好的影响。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>被</WRONG>
+    <CORRECTION>破</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们希望李工厂把这件事如以下处理：首先，噪音的部分，我们也理解工厂发生噪音是无法难免的事，不过我们希望李厂长请遵守，工厂开动的时间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>李</WRONG>
+    <CORRECTION>您</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们希望李工厂把这件事赶快处理。如果李工厂不处理的话，我们居民要跟政府提「关闭工厂桉」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>李</WRONG>
+    <CORRECTION>您</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>李</WRONG>
+    <CORRECTION>您</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    快要春天了，天气开始温暖，希望您健康、万一如意且贵工厂繁盛。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>一</WRONG>
+    <CORRECTION>事</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在工厂放烟气时，我们发现有黑黑的部分，令我们觉得过滤上有问题，另外在工厂放水时，我们还看到不干淨污水，看到这两个现象之后，我们觉得贵工厂的过滤系统上发生问题，请调查并处理之。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>47</LOCATION>
+    <WRONG>干</WRONG>
+    <CORRECTION>乾</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这样子不是波坏我们的「美丽环境」呢？我们怎麽会有「建康」的地方？而且我们这裡也很多（小孩）子，对他们真的不好吧！…
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>波</WRONG>
+    <CORRECTION>破</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>建</WRONG>
+    <CORRECTION>健</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果，您没有办法好好的处理这件事的话。邻居们说：「哪我们最后会提出「告诉」！」。让「城府」来处理吧！
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>43</LOCATION>
+    <WRONG>城</WRONG>
+    <CORRECTION>政</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但我们想信您会处理得很好，因为您跟我们一样爱护我们的环境。不是吗？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>想</WRONG>
+    <CORRECTION>相</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们希望李厂长尽快帮我们解决这件事情，想个法子把噪音降低、臭味不能排放到附近的水沟裡，并提高自我环保的概念、爱护地球，如此以来大家就能拥有安定的生活以及零污染的生活品质。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>62</LOCATION>
+    <WRONG>以</WRONG>
+    <CORRECTION>一</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    新的机器有可能声影少一点、还有臭味也是。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>影</WRONG>
+    <CORRECTION>音</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    您好！我是王天华，这里的里长。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>里</WRONG>
+    <CORRECTION>裡</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果三个星期以后，我们认为噪音和臭味的问题还在打扰我们正常的生活，只好诉之于市长和委员来决定。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>37</LOCATION>
+    <WRONG>之</WRONG>
+    <CORRECTION>诸</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这两问题真的严重，我麽受不了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>麽</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    居民要求工厂加强防噪音与防臭味设备，因该要设备防噪音牆与化学药品过滤器来处理这一件事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>因</WRONG>
+    <CORRECTION>应</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    李厂长因该会理解我们的状况，我们相信你会儘快解决这件事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>因</WRONG>
+    <CORRECTION>应</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我跟家人住在贵工厂附近，我是作为家人和邻居们的代表人写信给您的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>作</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果您不接受这些要求，我拒绝将跟市长在说。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>在</WRONG>
+    <CORRECTION>再</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果你拒绝我们的要求的话，我们就会用别的方法避改变你的生意习惯。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>避</WRONG>
+    <CORRECTION>逼</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们是投资价，艺术家，作者，律师甚麽的，都到我们的地区吸引钱和发展。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>价</WRONG>
+    <CORRECTION>家</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    臭味吸引虫子，老树，猫，狗和别的动物，结果使得附近越来越不健康，提高病的风险。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>树</WRONG>
+    <CORRECTION>鼠</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    当然我们已经商量了律师，你们无理我们的话我们告法院。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>无</WRONG>
+    <CORRECTION>不</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们希望你会了解我们的困难，所以今天写这份信给你，麻烦李厂长帮我们假借这个问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>34</LOCATION>
+    <WRONG>假</WRONG>
+    <CORRECTION>解</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>35</LOCATION>
+    <WRONG>借</WRONG>
+    <CORRECTION>决</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们觉得你们可以理由他们的钱买更多的设备。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>理</WRONG>
+    <CORRECTION>利</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>10</LOCATION>
+    <WRONG>由</WRONG>
+    <CORRECTION>用</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    等待你们的恢复。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>恢</WRONG>
+    <CORRECTION>回</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>复</WRONG>
+    <CORRECTION>覆</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    一是为了维护小孩们的睡觉、晚上或很早的时间麻烦您停您们工厂的稼？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>稼</WRONG>
+    <CORRECTION>加</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我朋友，林博士，环境工程师，已经侧了工厂造出的噪音，明确超过台湾环境法律合法极限。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>侧</WRONG>
+    <CORRECTION>测</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    上个星期我有配她去高医看病。结果医生说她有忧鬱症。医师提出的最大的原因可能是因为睡眠品质的关係。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>配</WRONG>
+    <CORRECTION>陪</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他说睡眠时间不过或者睡眠品质不佳算忧鬱症的最常看见的原因。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>过</WRONG>
+    <CORRECTION>够</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而且，我们也已经侧了工厂后面的小河堤因为常看贵工厂的员工开卡车到哪裡丢液体到河裡面。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>侧</WRONG>
+    <CORRECTION>测</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>哪</WRONG>
+    <CORRECTION>那</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    不过如果附近的癌症率继续增加，而可以证明是因为贵工厂造成的环境污染，贵工厂一定会需要在法律上配被害者。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>47</LOCATION>
+    <WRONG>配</WRONG>
+    <CORRECTION>赔</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    然后你们工厂应该要盖起来比较高高厚厚的床比。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>床</WRONG>
+    <CORRECTION>牆</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>比</WRONG>
+    <CORRECTION>壁</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    说实话，我本来很羡慕你，妳还年轻，可是已经成为一个厂长，前途一定非常辉煌。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>妳</WRONG>
+    <CORRECTION>你</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得老师的生活，工作都很幸苦。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>14</LOCATION>
+    <WRONG>幸</WRONG>
+    <CORRECTION>辛</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    你听过「你不可以相信全部看的」吗？路下来的影片又信又骗。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>路</WRONG>
+    <CORRECTION>录</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    没有人愿意自己所有的行为都被蓝控设备录影。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>蓝</WRONG>
+    <CORRECTION>监</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而处在被蓝控设备录影的情况之下的你，是真正的你吗？我认为不是真正的你。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>蓝</WRONG>
+    <CORRECTION>监</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    为了父母随时知道孩子的一切把孩子当成监狱裡的犯人一样用蓝控设备录影，这个作法是到底为了谁做的？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>28</LOCATION>
+    <WRONG>蓝</WRONG>
+    <CORRECTION>监</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    父母随时随地可以看到集资的小孩子，就会觉得安心，小孩子也会感到安全感。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>集</WRONG>
+    <CORRECTION>自</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>资</WRONG>
+    <CORRECTION>己</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果是国力的小学，这件问题更複杂。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>力</WRONG>
+    <CORRECTION>立</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而且如果孩子知道除了他的父母意外有其他的父母可以看他上课的时候怎麽样，说不定他很紧张，无法专心学习。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>意</WRONG>
+    <CORRECTION>以</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    全世界个国家的人看电视的时候碰到小朋友常常受坏人的影响：吸毒品、吸菸、喝酒，被绑架、被打等等。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>个</WRONG>
+    <CORRECTION>各</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    她们上课的时候妈妈、爸爸整天疑神疑鬼，所以教室裡的摄影机会帮父母放心。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>她</WRONG>
+    <CORRECTION>他</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    教室裡装摄影机是个很有道理的注意，不过父母千万不要忘记摄影机为了保护孩子、父母的安心做的，并不是为了控制孩子或者老师。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>注</WRONG>
+    <CORRECTION>主</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    父母要了解他们不应该干涉教育过程、批评老师的教法，是因为设施校长的工作。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>设</WRONG>
+    <CORRECTION>这</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>30</LOCATION>
+    <WRONG>施</WRONG>
+    <CORRECTION>是</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    虽然小学生的年纪好小，但已有自己的世界的人。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>好</WRONG>
+    <CORRECTION>还</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而且，随地到处都有的画，让引起对学校与老老师们的反感或抵抗心。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>画</WRONG>
+    <CORRECTION>话</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    若家长们更了解及学校生活，要其他的方式来参观／询问，需要易之思知的想法。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>知</WRONG>
+    <CORRECTION>之</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我反对装：１、现在的生活方面小孩子犹太複杂的规定。２、小孩子是要一个比较自由环境上课，如果他们知道父母２４小时在看他们一定没有办法放轻鬆。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>犹</WRONG>
+    <CORRECTION>有</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>是</WRONG>
+    <CORRECTION>需</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    ３、先在生活方面我们对小孩子很严格。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>3</LOCATION>
+    <WRONG>先</WRONG>
+    <CORRECTION>现</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我认为现在的家人太依赖老师帮他们把小孩子的基本礼貌该好，父母亲馅子很忙的工作所以没有空陪小孩子，然后小孩子不懂外面的规定。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>该</WRONG>
+    <CORRECTION>改</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>馅</WRONG>
+    <CORRECTION>现</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>33</LOCATION>
+    <WRONG>子</WRONG>
+    <CORRECTION>在</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    或许，有人会认为这样的作法会让孩子没有了空间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>作</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而家长只是透过这样的平台让孩子把弱的补强，强的能变跟专业。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>跟</WRONG>
+    <CORRECTION>更</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为学校的看法不能照顾好对学生，万一发生什麽事就来不及处理。所以我反对这个犯法。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>38</LOCATION>
+    <WRONG>犯</WRONG>
+    <CORRECTION>办</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    教室裡面不这麽对装着相机，因为这样老是跟学校不会说出来自己的想法跟看，老师也会不喜欢用自己的教法，而且这个贞的不是好办法。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>这</WRONG>
+    <CORRECTION>怎</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>是</WRONG>
+    <CORRECTION>师</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>54</LOCATION>
+    <WRONG>贞</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    一天装饰是看都还可以，可是每天这，应该不太方，也不对。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>饰</WRONG>
+    <CORRECTION>试</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>是</WRONG>
+    <CORRECTION>试</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果父母不让自己的孩子独立，孩子也会一直依赖者父母过生活。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>者</WRONG>
+    <CORRECTION>着</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    自由价值观要从孩子在年幼的时候灌输，这样他们才会慢慢懂得如何是自由，长大后他们才懂懂尊重他人的自由。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>41</LOCATION>
+    <WRONG>懂</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    其实我们老师们希望更多一点跟父母一起讨论。你的孩子这样啊、我们现在做什麽啊。这个因该对你的孩子也和好的机会。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>这</WRONG>
+    <CORRECTION>怎</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>41</LOCATION>
+    <WRONG>因</WRONG>
+    <CORRECTION>应</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>49</LOCATION>
+    <WRONG>和</WRONG>
+    <CORRECTION>很</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我们不决定装录音机。这个事情是下个星期跟大家讨论以后才决定。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>音</WRONG>
+    <CORRECTION>影</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为我是觉得如果我孩子的学校有这样的摄影机，我就可以看到我孩子他在学校做了甚麽是，他到底去不去上课还有甚至还可以看到老师的态度和他是真麽教书的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>40</LOCATION>
+    <WRONG>是</WRONG>
+    <CORRECTION>事</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>67</LOCATION>
+    <WRONG>真</WRONG>
+    <CORRECTION>怎</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果他的学校有了摄影机，而且你们家或是你们公司已经有网路，随时我们都可以检查你麽的孩子。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>40</LOCATION>
+    <WRONG>麽</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    其实连我们每天都没有上网看看，但其子他自己就怕父母检查他们，他们没办法知道甚麽时候父母会上网看他们，他们一定不敢跑到别的地方去了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>子</WRONG>
+    <CORRECTION>实</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    可依一边做他们的事、一边照顾他们小孩。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>依</WRONG>
+    <CORRECTION>以</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果在教室小孩不舒服、家张可以马上知道。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>张</WRONG>
+    <CORRECTION>长</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    入果有不行得事情、可以在影机查看。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>入</WRONG>
+    <CORRECTION>如</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    根据新闻，每年至小有一位学生带枪来上课伤害同学。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>小</WRONG>
+    <CORRECTION>少</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为怕爸妈在看他，所以天天假装懂得样子，这样对学生哪有好处呢？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这是多麽恐怖的事呢？这样教室跟监狱那有差别呢？
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>那</WRONG>
+    <CORRECTION>哪</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    家长想知道小孩的学业情况的话，不是用摄影机看他们，而是去学校自接跟老师谈谈比较好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>自</WRONG>
+    <CORRECTION>直</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果父母要一点看到孩子做不好的事情，父母应该先跟老师导论一下要怎麽办解决这个问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>27</LOCATION>
+    <WRONG>导</WRONG>
+    <CORRECTION>讨</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    好处的影响是孩子知道父母在家看着他们在学习，让后孩子要让父母高兴因为他可以回答老师的问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>23</LOCATION>
+    <WRONG>让</WRONG>
+    <CORRECTION>然</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    因为你们知道有很多父母在看到你的孩子很聪明，希望我的看法可以让他家大开眼界。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>32</LOCATION>
+    <WRONG>他</WRONG>
+    <CORRECTION>大</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    心理学者可以分析有没有部正常的小孩、用这部影片来研究小孩的行为。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>12</LOCATION>
+    <WRONG>部</WRONG>
+    <CORRECTION>不</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得如果父母不要看得话，就不必看。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>得</WRONG>
+    <CORRECTION>的</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    被监视环境下的话，他们会感到不自由，然后不能好好考卢，对孩子们的心理真的不好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>26</LOCATION>
+    <WRONG>卢</WRONG>
+    <CORRECTION>虑</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这件事不只对为父母与学生好，也是位老师好。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>17</LOCATION>
+    <WRONG>位</WRONG>
+    <CORRECTION>为</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这样的话，当然，父母小孩回家的时候吗了他。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>吗</WRONG>
+    <CORRECTION>骂</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    今天的孩子已经收到很大的教育压力，我怕这种设备会让孩子受不了压力了。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>收</WRONG>
+    <CORRECTION>受</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在现代社会我们无法避免临视设备的影响，不过临视应该有限制。孩子不只有保护的权力，但是也有隐私的权力。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>39</LOCATION>
+    <WRONG>力</WRONG>
+    <CORRECTION>利</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>49</LOCATION>
+    <WRONG>力</WRONG>
+    <CORRECTION>利</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我了解为什麽可能有一些父母要观查教室，知道儿童在学校到底受到什麽样的教育，却他们应该自己去看情况怎麽样。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>查</WRONG>
+    <CORRECTION>察</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果教室装一个绿影机学生跟老师的关係会太假的，而老师们不愿意适应教式因为别的父母要全部是标准的方法。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>绿</WRONG>
+    <CORRECTION>录</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    最后，让校长建立绿影机在教室裡面会变学校的目的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>绿</WRONG>
+    <CORRECTION>录</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    绿影机会让这个问题更严重因为父母会勘老师们教的时候，确认他们有没有教考试的内容。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>绿</WRONG>
+    <CORRECTION>录</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>勘</WRONG>
+    <CORRECTION>看</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    虽然有一群父母会喜欢看孩子的情况，其实缺点必优点多。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>必</WRONG>
+    <CORRECTION>比</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    小孩不过不知道那个好那个不好，也不知道那作法是适合，难怪常常看到他们用部是对的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>8</LOCATION>
+    <WRONG>那</WRONG>
+    <CORRECTION>哪</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>11</LOCATION>
+    <WRONG>那</WRONG>
+    <CORRECTION>哪</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>作</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>36</LOCATION>
+    <WRONG>部</WRONG>
+    <CORRECTION>不</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    老师接受教孩子的训练，所以她的眼光比家常的重要多。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>常</WRONG>
+    <CORRECTION>长</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    在家说，装摄影机也意义学校不相信老师。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>在</WRONG>
+    <CORRECTION>再</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>2</LOCATION>
+    <WRONG>家</WRONG>
+    <CORRECTION>加</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我反对在教室裡装录影机，是因为有以下的坏趣。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>21</LOCATION>
+    <WRONG>趣</WRONG>
+    <CORRECTION>处</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    即然学生在学校老师的照顾下上课，他们的父母不需要一直看。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>1</LOCATION>
+    <WRONG>即</WRONG>
+    <CORRECTION>既</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    为了小孩的自由跟安全还有长大得很好，我完全还对我对某一所市立小学校长的建议「用网站看到小孩在教室裡的情况」。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>还</WRONG>
+    <CORRECTION>反</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>29</LOCATION>
+    <WRONG>市</WRONG>
+    <CORRECTION>私</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我觉得装了电影机是很好的作法，因为这机器有很多好处。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>13</LOCATION>
+    <WRONG>作</WRONG>
+    <CORRECTION>做</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    如果老是在忙的时候，她可以一边打工，一边看学生，这样可以省时间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>4</LOCATION>
+    <WRONG>是</WRONG>
+    <CORRECTION>师</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我看建设这种机器是很值得的事情，所有的学校已该建设。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>22</LOCATION>
+    <WRONG>已</WRONG>
+    <CORRECTION>应</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这样如果你装摄影机事：我想他家都不像原谅他，这样来说：我们要因该要好好的坐下来讨论一些这样的问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>像</WRONG>
+    <CORRECTION>想</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>因</WRONG>
+    <CORRECTION>应</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    特别是小学的学校，他们的教室裡改不改装摄影机。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>16</LOCATION>
+    <WRONG>改</WRONG>
+    <CORRECTION>该</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>改</WRONG>
+    <CORRECTION>该</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    我非常支持教室裡该装摄影机的观点，我希望政府也跟我有一样的想法补助学校门。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>36</LOCATION>
+    <WRONG>门</WRONG>
+    <CORRECTION>们</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    他们在工作或不管去那裡都可你随时看者自己的小孩，它们只要几分钟就可以知道我们的宝贝在做甚麽。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>18</LOCATION>
+    <WRONG>者</WRONG>
+    <CORRECTION>着</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    天天可以看者小孩成长，看到他们的快乐，看到他们对朋友的笑容，它们学习的认真，这是每个爸爸妈妈都想看到的。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>6</LOCATION>
+    <WRONG>者</WRONG>
+    <CORRECTION>着</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>31</LOCATION>
+    <WRONG>它</WRONG>
+    <CORRECTION>他</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    第一个原因是我认为孩子不应该一直被父母观着，孩子也需要有自己的空间。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>20</LOCATION>
+    <WRONG>观</WRONG>
+    <CORRECTION>关</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    想一下就知道这样不合理：＂对阿，我根本没做坏事，那为甚麽要加摄影机呢？这样不是说你不相信我吗？＂
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>阿</WRONG>
+    <CORRECTION>啊</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    整天都有人能检查你在家做甚麽，有没有以政府说的去做事。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>19</LOCATION>
+    <WRONG>以</WRONG>
+    <CORRECTION>依</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    但是我觉的学教有焋影机也好，如有发生意外老师们关查比交容易，不一定给家长在家有没有看到，还是有义，我们也要安心学校的教法。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>5</LOCATION>
+    <WRONG>的</WRONG>
+    <CORRECTION>得</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>7</LOCATION>
+    <WRONG>教</WRONG>
+    <CORRECTION>校</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>焋</WRONG>
+    <CORRECTION>装</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>24</LOCATION>
+    <WRONG>关</WRONG>
+    <CORRECTION>观</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>查</WRONG>
+    <CORRECTION>察</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>27</LOCATION>
+    <WRONG>交</WRONG>
+    <CORRECTION>较</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>48</LOCATION>
+    <WRONG>义</WRONG>
+    <CORRECTION>益</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    然后，因为妈妈或爸爸一直看录音机，所以他们可以帮小孩子解决甚麽问题。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>15</LOCATION>
+    <WRONG>音</WRONG>
+    <CORRECTION>影</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    而且老师也很难教师。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>9</LOCATION>
+    <WRONG>师</WRONG>
+    <CORRECTION>书</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
+<SENTENCE>
+  <TEXT>
+    这样学校及父母们都会知道也会有小朋友每天活动的挤入。
+  </TEXT>
+  <MISTAKE>
+   <LOCATION>24</LOCATION>
+    <WRONG>挤</WRONG>
+    <CORRECTION>记</CORRECTION>
+  </MISTAKE>
+  <MISTAKE>
+   <LOCATION>25</LOCATION>
+    <WRONG>入</WRONG>
+    <CORRECTION>录</CORRECTION>
+  </MISTAKE>
+</SENTENCE>
+
