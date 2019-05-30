@@ -18,6 +18,7 @@ if (os.cpu_count() > 8):
 else:
     USE_CUDA = False
 
+
 class Lang:
     def __init__(self):
         self.word2index = {}
@@ -114,31 +115,40 @@ def collate_fn(data):
         trg_seqs = trg_seqs.cuda()
     return src_seqs, src_lengths, trg_seqs, trg_lengths,  src_plain, trg_plain
 
+
 def read_langs(file_name):
+
     logging.info(("Reading lines from {}".format(file_name)))
     total_data=[]
-    with codecs.open(file_name,"r", encoding="utf-8") as fin:
-        data = ""
-        for line in fin:
-            if line.strip():
-                data += line
-            else:
-                locations = []
-                soup = BeautifulSoup(data, "html.parser")
-                for sentence in soup.find_all("sentence"):
-                    text = sentence.find("text").text.strip()
-                    mistakes = sentence.find_all("mistake")
-                    for mistake in mistakes:
-                        location = mistake.find("location").text.strip()
-                        locations.append(int(location))
-                sen =  list(text)
-                tags = ["0" for _ in range(len(sen))]
 
-                for i in locations:
-                    tags[i-1] = "1"
-                    total_data.append([" ".join(sen), " ".join(tags)])
-                data = ""
+    with codecs.open(file_name, "r", "utf-8") as file:
+
+        data = file.read()
+        soup = BeautifulSoup(data, 'html.parser')
+        results = soup.find_all('sentence')
+        for item in results:
+
+            text = item.find("text").text.strip()
+            mistakes = item.find_all("mistake")
+
+            locations = []
+            for mistake in mistakes:
+                location = mistake.find("location").text.strip()
+                wrong =  mistake.find("wrong").text.strip()
+                locations.append(int(location))
+                if text[int(location)-1] != wrong:
+                    print("The character of the given location does not equal to the real character")
+
+            sen = list(text)
+            tags = ["0" for _ in range(len(sen))]
+
+            for i in locations:
+                tags[i - 1] = "1"
+                total_data.append([" ".join(sen), " ".join(tags)])
+
     return total_data
+
+
 
 def get_seq(pairs,lang,batch_size,type):
     x_seq = []
@@ -159,7 +169,9 @@ def get_seq(pairs,lang,batch_size,type):
 
 
 def prepare_data_seq(filename, lang, isSplit=False, batch_size=64):
+
     if isSplit:
+
         data_path = filename
         data = read_langs(data_path)
 
@@ -167,7 +179,6 @@ def prepare_data_seq(filename, lang, isSplit=False, batch_size=64):
         logging.info("Number: {} and  Maxlen: {}".format(len(data), max_train_len))
 
         data = get_seq(data, lang, batch_size, True)
-
 
         logging.info("Vocab_size %s " % lang.n_words)
         logging.info("USE_CUDA={}".format(USE_CUDA))

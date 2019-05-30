@@ -13,6 +13,7 @@ any human intervention. A generated **Dataset** containing more than 100,000 sen
 * Python 35
 * Pytorch 0.4
 * numpy
+* [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 
 ## OCR-based Method
 ![ocr](images/ocr.png)

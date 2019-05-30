@@ -2,8 +2,8 @@
 import numpy as np
 import logging
 from tqdm import tqdm
-from model.utils.utils import *
-from model.bilstm import *
+from utils.utils import *
+from bilstm import *
 import torch.optim as optim
 import pickle
 
@@ -13,8 +13,9 @@ batch_size = 32
 
 isSplit = True
 
+
 lang = Lang()
-train, dev = prepare_data_seq("data/train/train.sgml", lang,  False, batch_size)
+train, dev = prepare_data_seq("data/test/test13.sgml", lang,  False, batch_size)
 
 model = BiLSTMTagger(EMBEDDING_DIM, HIDDEN_DIM, lang.n_words, lang.n_tags)
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
