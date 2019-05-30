@@ -41,8 +41,20 @@ for epoch in range(300):  # again, normally you would NOT do 300 epochs, it is t
         target_scores = target_index.transpose(0, 1)
 
         total_loss = 0.0
-        for i in range(len(src_length)):
-            total_loss += loss_function(tag_scores[i][:src_length[i]], target_scores[i][:src_length[i]])
+        try:
+            for i in range(len(src_length)):
+                total_loss += loss_function(tag_scores[i][:src_length[i]], target_scores[i][:src_length[i]])
+        except Exception as e:
+            print("src:")
+            print(src_index)
+            print(src_length)
+            print("target:")
+            print(target_index)
+            print(target_length)
+
+            print("exception is:")
+            print(e)
+
 
         loss = total_loss / len(src_length)
         loss.backward()
