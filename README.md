@@ -2,7 +2,7 @@
 
 This repository contains the scripts which can be used to automatically generate sentences
 with errors, of which locations and the corresponding corrections can be easily marked without
-any human intervention. A generated **Dataset** containing more than 100,000 sentences, and **Confusionset** are also provided for  future research on Chinese Spelling Cecking. 
+any human intervention. A generated **Dataset** containing 271,329 sentences, with the min_length=4, max_length=140, average_length=42.5, total_error=381,962, average_error=1.4, and **Confusionset** are also provided for  future research on Chinese Spelling Checking. 
 
 **Note:** The **Dataset** and **Confusionset** will be continuously updated.
 
